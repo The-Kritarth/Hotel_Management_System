@@ -16,7 +16,7 @@ The Hotel Management System is a console-based application developed in Java. It
 To run this project, you need the following software installed on your system:
 
 - **Java Development Kit (JDK) 8 or higher**: The programming language used for developing the application.
-- **JDBC**: Java Database Connectivity API for database operations.
+- **JDBC**: Java Database Connectivity API for database operations (In case you don't have it, just add the jar file provided along with the code here, to the dependencies of the project).
 - **MySQL**: The database used for storing hotel data (phpMyAdmin).
 - **Git**: Version control system.
 
