@@ -25,7 +25,7 @@ To run this project, you need the following software installed on your system:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/hotel-management-system.git
+git clone https://github.com/The-Kritarth/Hotel_Management_System.git
 cd hotel-management-system
 ```
 
