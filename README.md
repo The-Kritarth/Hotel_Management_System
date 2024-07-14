@@ -82,14 +82,6 @@ The application provides a console-based interface for interacting with the syst
 
 If you would like to contribute to the project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or need further assistance, please contact [your email address].
-
 ---
 
 Thank you for using the Hotel Management System! We hope it helps you efficiently manage your hotel's operations.
